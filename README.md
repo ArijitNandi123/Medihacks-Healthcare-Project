@@ -1,7 +1,7 @@
 # Medihacks-Healthcare-Project
 
 # TeleSuraksha - Healthcare-Project
-Healthcare Theme Project for MediHacks , a 36 days long Hackathon organised on Devpost Platform
+Healthcare Theme Project for MediHacks , a 3 days long Hackathon organised on Devpost Platform
 
 # PROJECT DEPLOYMENT LIVE LINK
 https://telesuraksha.netlify.app/
